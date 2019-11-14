@@ -1,0 +1,118 @@
+*
+{
+
+     margin:0;
+     padding:0;
+}
+
+
+.menu ul li
+{
+	display:inline-block;
+	margin-top: 40px;
+	margin-left: 80px;
+}
+
+.menu ul li a
+{
+	color:darkslategrey;
+	text-decoration: none;
+	padding: 10px 18px;
+	font-size: 17px;
+	font-family: "comic sans ms",sans-serif;
+	/*font-family: "orborn",sans-serif;*/
+	font-weight: bold;
+	
+}
+
+.menu ul li.active a
+{
+	color: dodgerblue;
+
+}
+
+.menu ul li a:hover
+{
+	color: dodgerblue;
+}
+
+.menu li.active1 a
+{	
+	color:white;
+	background: #d91c5c;
+	border-radius: 25px;
+}
+.menu li.active1 a:hover
+{	
+	color:white;
+	background: dodgerblue;
+	border-radius: 25px;
+}
+
+
+.menu img
+{
+	width: 300px;
+	height:80px;
+	float: left;
+}
+
+.image1 img
+{
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	margin-top: 80px;
+
+
+}
+
+.image1 img:hover
+{
+	    box-shadow: 5px 5px 5px 5px darkslategrey;
+}
+
+.p1
+{
+	
+	font-family: "sinzel",sans-serif;
+	font-size: 30px;
+	margin-top: 70px;
+	text-align: center;
+	color: darkslategrey;
+}
+
+.head1
+{
+	font-family: "sinzel",sans-serif;
+	font-size: 40px;
+	margin-top: 100px;
+	text-align: center;
+	color: black;
+}
+
+
+.img2
+{
+	margin-left: 130px;
+}
+
+.img3
+{
+	margin-left: 30px;
+}
+
+.img4
+{
+	margin-left: 30px;
+}
+
+.img5
+{
+	margin-left: 30px;
+}
+
+.img6
+{
+	margin-left: 30px;
+}

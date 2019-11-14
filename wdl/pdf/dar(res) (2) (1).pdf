@@ -1,0 +1,8 @@
+<br />
+<b>Warning</b>:  filesize(): stat failed for pdf/dar(res) (2).pdf in <b>/storage/ssd1/202/11344202/public_html/download.php</b> on line <b>23</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /storage/ssd1/202/11344202/public_html/download.php:23) in <b>/storage/ssd1/202/11344202/public_html/download.php</b> on line <b>23</b><br />
+<br />
+<b>Warning</b>:  readfile(pdf/dar(res) (2).pdf): failed to open stream: No such file or directory in <b>/storage/ssd1/202/11344202/public_html/download.php</b> on line <b>24</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /storage/ssd1/202/11344202/public_html/download.php:23) in <b>/storage/ssd1/202/11344202/public_html/download.php</b> on line <b>32</b><br />
